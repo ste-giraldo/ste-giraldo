@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)] "I'm a pub"
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ste-giraldo&show_icons=true)
 
 <!--
