@@ -1,4 +1,4 @@
-### Hi there 👋
+### Love coding in :snake: 
 ![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg) "I'm published also on Cisco DevNet"
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ste-giraldo&show_icons=true)
