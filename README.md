@@ -1,4 +1,4 @@
-### Looking for Developers who code in :snake: to share ideas
+### Looking for Developers who codes in :snake: to share ideas
 [![published](https://static.production.devnetcloud.com/codeexchange/assets/images/devnet-published.svg)](https://developer.cisco.com/codeexchange/) I'm published also on Cisco Code Exchange
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ste-giraldo&show_icons=true&theme=tokyonight)
